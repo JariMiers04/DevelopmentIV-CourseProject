@@ -28,7 +28,7 @@ public class Shopper {
     }
 
     public void visitShop() {
-        System.out.println("enter the shop");
+        System.out.println(firstname + " " + lastname + "enters the shop");
     }
 
     public void browseItems() {

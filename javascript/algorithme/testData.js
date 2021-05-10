@@ -1,1 +1,3 @@
-export default ["jari", 'igor', 'fien','jochem', 'alex', 'yanni'];
+const nameArray = ["Jari", "Fien", "Igor", "Alex", "Jochem", "Yanni"];
+
+export default nameArray;

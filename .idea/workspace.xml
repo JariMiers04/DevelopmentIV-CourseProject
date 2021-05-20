@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd0195f-56db-4567-83ec-26dd14f1ee84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DevelopmentIV-CourseProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/apiguardian-api-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-5.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-api-5.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-jupiter-params-5.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-platform-commons-1.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/junit-platform-engine-1.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/opentest4j-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/Observer/IshopItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/Observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/Observer/shopItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/Observer/shopperObserverable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/CurrencyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/IShopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/ShopCurrency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/Shopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/WindowShopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/CurrencyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/IShopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/IShoptItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/ShopCurrency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/ShopItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/Shopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DevelopmentIV-CourseProject/be/ehb/multec/assignment/WindowShopper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DevelopmentIV-CourseProject/be/ehb/multec/TemplateAndAdapter/ShopperTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/DevelopmentIV-CourseProject/be/ehb/multec/assignment/ShopperTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1snkWQn4MRnoacs6LSbrk7jx2wS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd0195f-56db-4567-83ec-26dd14f1ee84" name="Default Changelist" comment="" />
+      <created>1621515771454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621515771454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1621515812385">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1621515812385" />
+  </component>
+</project>

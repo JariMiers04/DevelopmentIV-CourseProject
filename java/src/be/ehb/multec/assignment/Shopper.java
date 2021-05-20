@@ -26,8 +26,6 @@ public class Shopper {
     void goShopping() {
         visitShop();
         browseItems();
-
-
         buyItemsWithOriginCurrency();
         leaveShop();
     }
